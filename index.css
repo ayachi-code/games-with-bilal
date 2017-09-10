@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(80, 200, 190);
+
+}
+
+
+#cth {
+    width: 300px;
+    background: aquamarine;
+}
+
+#gcl {
+    width: 100px;
+}
+
+.wad {
+    width: 300px;
+    height: 30px;
+    background-color: rgb(200, 100, 200)
+    
+
+}
+
+.adventureg {
+    width: 300px;
+    height: 400px;
+    background: rgb(40, 90, 160);
+
+
+}
+
+
+#basn {
+    text-align: center;
+}
+
+#aaaa {
+    color: darkorange;
+}
+
+#wbg {
+    color: lightgoldenrodyellow;
+}
+
+/* simpel spellen */
+
+.simpel {
+    margin-left: auto;
+    margin-top: -420px;
+    width: 300px;
+    height: 400px;
+    background: rgb(40, 90, 160);
+
+}
+
+.wae {
+    width: 300px;
+    height: 30px;
+    background-color: rgb(200, 100, 200)
+    
+
+
+}
+
+
+
+#alou {
+     text-align: center;
+     color: rgb(150, 200, 212)
+}
+
